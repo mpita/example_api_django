@@ -1,0 +1,14 @@
+*~
+.DS_Store
+venv
+env
+migrations
+*.pyc
+__pycache__
+media
+.idea
+staticfiles
+*.log
+debug.log
+*.sqlite3
+.gitkeep
